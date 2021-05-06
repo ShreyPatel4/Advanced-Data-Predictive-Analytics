@@ -1,2 +1,25 @@
-# Advanced-Data-Predictive-Analytics
-advanced analytics which is used to make predictions about unknown Test-Cases From Test-Data. Predictive analytics uses many techniques from data mining, statistics, modeling, machine learning, and artificial intelligence to analyze current data to make predictions about Test-Data
+
+
+<h1>💻Data Warehouse and Mining📈</h1>
+Here, We will Take a Deep dive in Predictive Analytics - So called <b>" -Advanced Predictive Analysis- "</b> , You will know What Challenges and Tips you should consider
+<h2>Advanced-Data-Predictive-Analytics</h2>
+Advanced analytics which is used to make predictions about unknown Test-Cases From Test-Data. Predictive analytics uses many techniques from data mining, statistics, modeling, machine learning, and artificial intelligence to analyze current data to make predictions about Test-Data
+
+
+#### To Contribute to the Project:
+
+1. Choose any open issue from [here](https://github.com/jaypatel15406/Data-Warehouse-And-Mining/issues). 
+2. Comment on the Issue: `Can I work on this?` and Start Exploring it.
+3. Make changes to your Fork and Send a PR.
+
+#### To Create a PR (Pull Request):
+
+For Creating Valid PR Successfully. Kindly follow Guide: https://help.github.com/articles/creating-a-pull-request/
+
+#### To Send a PR, Follow Rules Carefully !!   
+
+**Otherwise your PR will be Closed**:
+
+1. For Appropriate PR, follow Title Format: `Fixes #IssueNo : Name of the Issue`
+
+For any Doubts related to the Issues, such as understanding Issue better etc., Comment Down your Queries on the Respective Issue.
