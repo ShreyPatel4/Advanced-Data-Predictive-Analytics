@@ -8,7 +8,7 @@ Advanced analytics which is used to make predictions about unknown Test-Cases Fr
 <hr>
 <h3> To Contribute to the Project:</h3>
 
-1. Choose any open issue from [here](https://github.com/jaypatel15406/Data-Warehouse-And-Mining/issues). 
+1. Choose any open issue from [here](https://github.com/ShreyPatel4/Advanced-Data-Predictive-Analytics/issues). 
 2. Comment on the Issue: `Can I work on this?` and Start Exploring it.
 3. Make changes to your Fork and Send a PR.
 
